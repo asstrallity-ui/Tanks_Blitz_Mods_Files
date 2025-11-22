@@ -6,5 +6,13 @@
         "description": "Уникальный ремоделинг на BZ-75 с возможностью предзаказа",
         "image": "https://raw.githubusercontent.com/asstrallity-ui/Tanks_Blitz_Mods_Files/main/Mods/BZ75-Divine/preview.jpg",
         "file": "Mods/BZ75-Divine/BZ.zip"
+    },
+    {
+        "id": "140",
+        "name": "Ремоделинг Об.140 «Ласточка»",
+        "author": "DorTep",
+        "description": "Мод заменяет обычный танк Объект 140 на Объект 140 с 3D стилем «Ласточка» из WoT",
+        "image": "https://raw.githubusercontent.com/asstrallity-ui/Tanks_Blitz_Mods_Files/main/Mods/BZ75-Abyss/preview.jpg",
+        "file": "Mods/140_USSR/140.zip"
     }
 ]
