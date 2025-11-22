@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "updated": "2025-11-22",
+  "mods": [
+    {
+      "id": "bz75-divine",
+      "name": "BZ-75 | Divine Valor",
+      "description": "Уникальный ремоделинг из кастомных текстур",
+      "version": "RELEASE",
+      "author": "Refuzo + ASSTRALLITY",
+      "preview": "https://raw.githubusercontent.com/asstrallity-ui/Loader_Blitz/main/Mods/BZ75-Divine/preview.jpg",
+      "dataFile": "Mods/BZ75-Divine/Data.zip",
+      "category": "tank-remodel",
+      "tags": ["bz-75", "tank", "remodel"]
+    }
+  ]
+}
