@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
-  "exe_url": "https://github.com/asstrallity-ui/Tanks_Blitz_Mods_Files/releases/download/v1.0.3/AsstrallityLauncher.exe",
-  "changelog": "Оптимизация авто-апдейтера"
+  "version": "1.0.4",
+  "exe_url": "https://github.com/asstrallity-ui/Tanks_Blitz_Mods_Files/releases/download/v1.0.4/AsstrallityLauncher.exe",
+  "changelog": "Скорость загрузки + вес"
 }
