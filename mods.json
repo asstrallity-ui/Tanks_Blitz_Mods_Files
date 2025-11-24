@@ -1,12 +1,4 @@
-[
-    {
-        "id": "KPZ01",
-        "name": "Ремоделинг «Kampfpanzer 07 P(E) Шпинне»",
-        "author": "Qirashi",
-        "description": "ВНИМАНИЕ! На Андроид работает только на LESTA клиенте, на ПК возможно установить на WG.",
-        "image": "https://raw.githubusercontent.com/asstrallity-ui/Tanks_Blitz_Mods_Files/main/Mods/KPZ/preview.jpg",
-        "file": "https://rh-archive.ru/mods_files_github/KPZ.zip"
-    },
+
     {
         "id": "WZ111_5A",
         "name": "WZ-111 5A Perfectionist",
